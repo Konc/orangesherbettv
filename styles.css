@@ -45,6 +45,7 @@ a img {
 }
 
 .social-media {
+  display: block !important;
   margin-top: 2em;
 }
 
